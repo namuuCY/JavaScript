@@ -24,4 +24,4 @@ switch ( choice ){
     default:
         console.log("죄송합니다. 그런메뉴는 없습니다.");
         break;
-};
+}; 
