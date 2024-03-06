@@ -4,3 +4,5 @@ var man = {
     age:20,
     height:180
 };
+man.name = "장철영";
+man["age"] = 30;
