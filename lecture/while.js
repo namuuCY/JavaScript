@@ -34,3 +34,4 @@ while (count < 3){
     count++;
 };
 
+console.log("안녕히 가십시오.")
